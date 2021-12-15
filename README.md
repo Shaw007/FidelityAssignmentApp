@@ -1,2 +1,2 @@
 # FidelityAssignmentApp 
-## This app was developed on an Intel Macbook. It may or may not work on a Silicon based macbook
+## This app was developed on an Intel based macbook. It may or may not compile and build on a Silicon based macbook
