@@ -15,4 +15,5 @@ This app uses MVVM architecture along with the following libraries:
 - ViewModel and LiveData
 - Material Design Library
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/6193968/146120294-18418cb4-c2a9-44ff-bb26-1e287f9fcad2.gif)
+# YouTube Demo:
+https://youtu.be/jE_F7PKuTo0
